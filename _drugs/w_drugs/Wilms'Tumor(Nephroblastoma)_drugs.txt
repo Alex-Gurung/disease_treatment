@@ -1,0 +1,11 @@
+Taxol
+Adriamycin
+Oncovin
+Onxol
+Cosmegen
+paclitaxel
+vincristine
+doxorubicin
+cyclophosphamide
+dactinomycin
+Vincasar PFS

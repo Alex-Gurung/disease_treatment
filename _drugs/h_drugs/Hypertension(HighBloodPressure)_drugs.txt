@@ -1,0 +1,270 @@
+lisinopril
+amlodipine
+Benicar
+Norvasc
+losartan
+Metoprolol Succinate ER
+metoprolol
+hydrochlorothiazide
+Avapro
+Cozaar
+Diovan
+atenolol
+Bystolic
+Lopressor
+Metoprolol Tartrate
+Lasix
+Vasotec
+Maxzide
+Prinivil
+Toprol-XL
+Zestril
+furosemide
+carvedilol
+Diovan HCT
+hydrochlorothiazide / lisinopril
+Tenormin
+clonidine
+enalapril
+hydrochlorothiazide / triamterene
+Benicar HCT
+Exforge
+Dyazide
+valsartan
+irbesartan
+olmesartan
+ramipril
+Coreg
+hydralazine
+spironolactone
+amlodipine / valsartan
+diltiazem
+hydrochlorothiazide / losartan
+nifedipine
+propranolol
+verapamil
+benazepril
+hydrochlorothiazide / valsartan
+Qbrelis
+Zestoretic
+amlodipine / benazepril
+amlodipine / hydrochlorothiazide / valsartan
+Aquazide H
+bisoprolol
+Catapres
+chlorthalidone
+Coreg CR
+doxazosin
+hydrochlorothiazide / olmesartan
+Hyzaar
+labetalol
+nebivolol
+Aldactone
+Altace
+atenolol / chlorthalidone
+Azor
+captopril
+Cardizem
+Cardizem CD
+Cartia XT
+Catapres-TTS
+Diltia XT
+Esidrix
+Inderal
+Lotrel
+Micardis
+Micardis HCT
+Microzide
+Nifedical XL
+Procardia XL
+quinapril
+terazosin
+Tiazac
+Accupril
+Adalat CC
+Afeditab CR
+amlodipine / atorvastatin
+amlodipine / olmesartan
+Apresoline
+Atacand
+Avalide
+benazepril / hydrochlorothiazide
+bendroflumethiazide / nadolol
+Caduet
+Calan
+candesartan
+Cardizem LA
+Cardura
+Dilacor XR
+Dilt-XR
+Diltzac
+felodipine
+hydrochlorothiazide / irbesartan
+hydrochlorothiazide / telmisartan
+indapamide
+Inderal LA
+InnoPran XL
+Lotensin
+Matzim LA
+Nexiclon XR
+Nifediac CC
+perindopril
+prazosin
+Taztia XT
+Verelan PM
+acebutolol
+Aceon
+Amlobenz
+amlodipine / telmisartan
+Atacand HCT
+bendroflumethiazide
+bisoprolol / hydrochlorothiazide
+Blocadren
+Calan SR
+Capoten
+chlorthalidone / clonidine
+Corgard
+Corzide 80 / 5
+Covera-HS
+Demadex
+eprosartan
+Exforge HCT
+fosinopril
+guanfacine
+Hytrin
+Inspra
+Isoptin SR
+Lozol
+methyldopa
+metolazone
+Minipress
+Minitran
+minoxidil
+Monopril
+Mykrox
+nadolol
+Nitrek
+Nitro-Bid
+Nitro-Dur
+Nitro-Time
+Nitrocot
+Nitrogard
+nitroglycerin
+Nitrol Appli-Kit
+Nitrolingual Pumpspray
+NitroMist
+NitroQuick
+Nitrostat
+Nitro TD Patch-A
+Normodyne
+Prinzide
+Sectral
+Tekturna
+telmisartan
+Thalitone
+timolol
+torsemide
+Trandate
+Transderm-Nitro
+Tribenzor
+Verelan
+Zaroxolyn
+Zebeta
+Ziac
+Accuretic
+Aldactazide
+Aldoril
+Aldoril 15
+Aldoril 25
+aliskiren / amlodipine / hydrochlorothiazide
+aliskiren / amlodipine
+aliskiren / hydrochlorothiazide
+aliskiren
+amiloride / hydrochlorothiazide
+amiloride
+amlodipine / hydrochlorothiazide / olmesartan
+amlodipine / perindopril
+Amturnide
+Aquatensen
+azilsartan medoxomil / chlorthalidone
+azilsartan medoxomil
+betaxolol
+Brevibloc
+Byvalson
+candesartan / hydrochlorothiazide
+Capozide
+Capozide 25 / 15
+Capozide 25 / 25
+Capozide 50 / 15
+Capozide 50 / 25
+captopril / hydrochlorothiazide
+Cardene
+Cardene IV
+Cardene SR
+chlorothiazide
+clevidipine
+Cleviprex
+Clorpres
+Corzide
+Corzide 40 / 5
+Diuril
+Diuril Sodium
+Dutoprol
+Dynacirc
+DynaCirc CR
+Edarbi
+Edarbyclor
+enalapril / hydrochlorothiazide
+Enduron
+eplerenone
+esmolol
+fosinopril / hydrochlorothiazide
+guanabenz
+hydrochlorothiazide / methyldopa
+hydrochlorothiazide / metoprolol
+hydrochlorothiazide / moexipril
+hydrochlorothiazide / propranolol
+hydrochlorothiazide / quinapril
+hydrochlorothiazide / spironolactone
+Inderide
+isradipine
+Kerlone
+Loniten
+Lopressor HCT
+Lotensin HCT
+Mavik
+mecamylamine
+methyclothiazide
+Midamor
+Moduretic
+Moduretic 5-50
+moexipril
+Monopril HCT
+Naturetin
+nebivolol / valsartan
+nicardipine
+nisoldipine
+pindolol
+Plendil
+Prestalia
+Quinaretic
+reserpine
+Saluron
+Sular
+Tarka
+Tekamlo
+Tekturna HCT
+Tenex
+Tenoretic
+Tenoretic 50
+Tenoretic 100
+Teveten
+trandolapril / verapamil
+trandolapril
+Twynsta
+Uniretic
+Univasc
+Vaseretic
+Vaseretic 10-25
+Vecamyl
+Visken

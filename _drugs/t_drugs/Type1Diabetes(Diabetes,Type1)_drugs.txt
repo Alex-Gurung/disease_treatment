@@ -1,0 +1,55 @@
+Lantus
+Humalog
+Novolog
+Apidra
+Levemir
+Lantus Solostar
+Humalog KwikPen
+NovoLog FlexPen
+Afrezza
+Symlin
+Humulin N
+insulin glargine
+Humulin 70 / 30
+Humulin R
+insulin aspart
+insulin lispro
+Novolin 70 / 30
+Novolin N
+Apidra Solostar
+Novolin R
+Humalog Mix 75 / 25
+NovoLog Mix 70 / 30
+insulin glulisine
+insulin regular
+Toujeo
+Toujeo Solostar
+octreotide
+pramlintide
+Basaglar
+insulin detemir
+insulin inhalation, rapid acting
+insulin isophane / insulin regular
+insulin isophane
+NovoLog PenFill
+insulin aspart / insulin aspart protamine
+NovoLog Mix 70 / 30 FlexPen
+Humulin R U-500 (Concentrated)
+insulin lispro / insulin lispro protamine
+Symlin Pen
+Tresiba
+Humalog Mix 75 / 25 KwikPen
+Humulin N Pen
+Humulin R U-500 KwikPen
+insulin degludec
+ReliOn / Humulin R
+Relion Novolin N
+SymlinPen 60
+SymlinPen 120
+Humalog Mix 50 / 50
+Humalog Mix 50 / 50 KwikPen
+Humulin 50 / 50
+Humulin 70 / 30 Pen
+insulin aspart / insulin degludec
+ReliOn / Novolin 70 / 30
+Ryzodeg 70 / 30

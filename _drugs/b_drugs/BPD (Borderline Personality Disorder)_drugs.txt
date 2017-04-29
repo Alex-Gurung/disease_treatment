@@ -1,0 +1,25 @@
+quetiapine
+lamotrigine
+olanzapine
+lithium
+risperidone
+clozapine
+fluoxetine
+aripiprazole
+l-methylfolate
+lurasidone
+oxcarbazepine
+clonazepam
+alprazolam
+diazepam
+sertraline
+lorazepam
+topiramate
+buspirone
+citalopram
+haloperidol
+escitalopram
+asenapine
+divalproex sodium
+carbamazepine
+paliperidone

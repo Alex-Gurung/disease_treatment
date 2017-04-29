@@ -1,0 +1,68 @@
+ciprofloxacin
+Cipro
+nitrofurantoin
+Macrobid
+cephalexin
+Amoxil
+Keflex
+amoxicillin
+Levaquin
+trimethoprim
+levofloxacin
+Ceftin
+Macrodantin
+cefuroxime
+Elmiron
+Monurol
+Apo-Amoxi
+Furadantin
+Hiprex
+Moxilin
+Cipro I.V.
+Cipro XR
+Floxin
+fosfomycin
+Proquin XR
+Suprax
+Biocef
+cefpodoxime
+Cefzil
+Daxbia
+methenamine
+Panixine
+Cedax
+cefixime
+ofloxacin
+pentosan polysulfate sodium
+tetracycline
+Zinacef
+Achromycin V
+Ala-Tet
+Brodspec
+cefaclor
+cefprozil
+ceftazidime
+Fortaz
+Gantrisin
+Panmycin
+Primsol
+Proloprim
+sulfisoxazole
+Sumycin
+Tetracap
+Tetracon
+Trimpex
+Urex
+acetohydroxamic acid
+ceftibuten
+Ceptaz
+Cryoserv
+dimethyl sulfoxide
+Gantrisin Pediatric
+Lithostat
+Mandelamine
+nalidixic acid
+NegGram
+Rimso-50
+Tazicef
+Truxazole

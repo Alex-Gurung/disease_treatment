@@ -1,0 +1,55 @@
+ciprofloxacin
+ceftriaxone
+amikacin
+metronidazole
+Cipro
+clindamycin
+cefepime
+Flagyl
+cefotaxime
+vancomycin
+ceftazidime
+Zyvox
+Zosyn
+Vancocin
+Amikin
+Cleocin
+Azactam
+Maxipime
+linezolid
+cilastatin / imipenem
+daptomycin
+Flagyl IV
+Claforan
+piperacillin / tazobactam
+Metro
+gentamicin
+Garamycin
+Cubicin
+Primaxin IV
+Cipro XR
+tobramycin
+aztreonam
+Cipro I.V.
+Cleocin HCl
+Cleocin Phosphate
+Flagyl 375
+Cleocin Pediatric
+Fortaz
+Tazicef
+Tobi
+ampicillin
+nafcillin
+Nebcin
+Vancocin HCl
+Vancocin HCl Pulvules
+Ceptaz
+dalfopristin / quinupristin
+Synercid
+Unipen
+Amikin Pediatric
+Cubicin RF
+penicillin g potassium
+penicillin g sodium
+Pfizerpen
+Primaxin IM

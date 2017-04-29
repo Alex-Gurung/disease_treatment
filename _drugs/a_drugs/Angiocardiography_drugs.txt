@@ -1,0 +1,7 @@
+iohexol
+Omnipaque 300
+Omnipaque 140
+Omnipaque 180
+Omnipaque 240
+Omnipaque 350
+Omnipaque Flexipak

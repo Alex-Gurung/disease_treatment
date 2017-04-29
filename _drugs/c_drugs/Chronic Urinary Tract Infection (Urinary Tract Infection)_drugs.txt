@@ -1,0 +1,131 @@
+ciprofloxacin
+Cipro
+nitrofurantoin
+Macrobid
+Bactrim
+Amoxil
+sulfamethoxazole / trimethoprim
+Bactrim DS
+amoxicillin
+Augmentin
+doxycycline
+Levaquin
+levofloxacin
+Macrodantin
+SMZ-TMP DS
+ceftriaxone
+Septra DS
+Ceftin
+amoxicillin / clavulanate
+cefuroxime
+Septra
+trimethoprim
+Uribel
+Vibramycin
+ampicillin
+Apo-Amoxi
+Cipro I.V.
+Doryx
+Doxy 100
+methenamine
+Moxilin
+Suprax
+Ancef
+Cipro XR
+Doxy 200
+Invanz
+Monodox
+Morgidox
+Ocudox
+Oraxyl
+Proquin XR
+Vibra-Tabs
+cefepime
+cefixime
+cefotaxime
+ofloxacin
+Sulfatrim
+Urelle
+Zosyn
+amikacin
+cefadroxil
+cefazolin
+ceftazidime
+Co-trimoxazole
+Furadantin
+Hiprex
+Unasyn
+Urogesic Blue
+Uta
+Amoclan
+ampicillin / sulbactam
+Augmentin ES-600
+Augmentin XR
+cefaclor
+cilastatin / imipenem
+Cotrim
+Duricef
+ertapenem
+Floxin
+hyoscyamine / methenamine / methylene blue / phenyl salicylate
+Kefzol
+Maxipime
+piperacillin / tazobactam
+Primsol
+Proloprim
+Sulfatrim Pediatric
+Trimpex
+Uretron DS
+Urin D / S
+Ustell
+Utira-C
+Zinacef
+acetohydroxamic acid
+Amikin
+Amikin Pediatric
+avibactam / ceftazidime
+Avycaz
+Azactam
+aztreonam
+Azuphen MB
+Cefotan
+cefotetan
+cefoxitin
+ceftolozane / tazobactam
+Ceptaz
+Claforan
+Darcalma
+Darpaz
+Doribax
+doripenem
+Fortaz
+Hyolev MB
+hyoscyamine / methenamine / methylene blue / phenyl salicylate / sodium biphosphate
+hyoscyamine / methenamine / methylene blue / sodium biphosphate
+Indiomin MB
+Lithostat
+Mandelamine
+Mefoxin
+Phosenamine
+Phosphasal
+piperacillin
+Pipracil
+Primaxin IM
+Primaxin IV
+Prosed EC
+Tazicef
+Uramit MB
+Urex
+Urimar-T
+Uritact-EC
+Uritact DS
+UR N-C
+Uro-458
+Uro-L
+UroAv-81
+UroAv-B
+Urolet MB
+Usept
+UTICAP
+Utira
+Zerbaxa

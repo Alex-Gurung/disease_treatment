@@ -1,0 +1,64 @@
+ceftriaxone
+Bactrim
+vancomycin
+meropenem
+Bactrim DS
+cefotaxime
+Flagyl
+Ceftin
+sulfamethoxazole / trimethoprim
+triamcinolone
+Vancocin
+Claforan
+gentamicin
+Septra DS
+Co-trimoxazole
+metronidazole
+rifampin
+amikacin
+chloramphenicol
+Garamycin
+Kenalog-40
+cefuroxime
+Clinacort
+Flagyl 375
+Flagyl IV
+Fortaz
+Merrem
+Metro
+Septra
+ampicillin
+Rifadin
+Sulfatrim
+Zinacef
+ceftazidime
+SMZ-TMP DS
+Unasyn
+Vancocin HCl
+Vancocin HCl Pulvules
+Cotrim
+Sulfatrim Pediatric
+Tobi
+Amikin
+Amikin Pediatric
+ampicillin / sulbactam
+Chloromycetin
+cilastatin / imipenem
+Nebcin
+piperacillin
+Pipracil
+Primaxin IV
+Rifadin IV
+Rimactane
+tobramycin
+Bactocill
+Ceptaz
+Chloromycetin Sodium Succinate
+nafcillin
+oxacillin
+penicillin g potassium
+penicillin g sodium
+Pfizerpen
+Primaxin IM
+Tazicef
+Unipen

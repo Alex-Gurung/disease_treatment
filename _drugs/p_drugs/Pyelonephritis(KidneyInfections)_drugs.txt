@@ -1,0 +1,86 @@
+ciprofloxacin
+Cipro
+Bactrim
+Keflex
+Augmentin
+cephalexin
+Bactrim DS
+sulfamethoxazole / trimethoprim
+Levaquin
+levofloxacin
+amoxicillin / clavulanate
+Ceftin
+Ancef
+SMZ-TMP DS
+Septra
+Septra DS
+ceftriaxone
+cefuroxime
+Cipro I.V.
+cefazolin
+cefpodoxime
+Cipro XR
+Co-trimoxazole
+Sulfatrim
+Zosyn
+Biocef
+cefotaxime
+Daxbia
+Duricef
+gentamicin
+Panixine
+cefadroxil
+cefepime
+cefixime
+ceftazidime
+Cefzil
+ertapenem
+Fortaz
+Invanz
+Maxipime
+methenamine
+ofloxacin
+piperacillin / tazobactam
+Suprax
+tobramycin
+Amoclan
+ampicillin
+Augmentin ES-600
+Azactam
+cefaclor
+Cotrim
+Floxin
+Garamycin
+piperacillin
+Sulfatrim Pediatric
+ampicillin / sulbactam
+Augmentin XR
+aztreonam
+cefprozil
+cilastatin / imipenem
+Claforan
+Hiprex
+Kefzol
+Mandelamine
+Nebcin
+Tobi
+Unasyn
+Zinacef
+avibactam / ceftazidime
+Avycaz
+Cefotan
+cefotetan
+cefoxitin
+Ceptaz
+Doribax
+doripenem
+Gantrisin
+Gantrisin Pediatric
+Mefoxin
+Pipracil
+Primaxin IM
+Primaxin IV
+sulfisoxazole
+Tazicef
+Truxazole
+Urex
